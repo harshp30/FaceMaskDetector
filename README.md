@@ -18,6 +18,8 @@ The best part about the project is that it reads on a loop live. So if you take 
 
 This is a simple and partially effective way of creating a project that is applicable and useful in the world we live in today. I believe the spread of COVID-19 could be slowed down if this was implemeneted in more stores across the world.
 
+*Github would not let me upload all the training files so I only uploaded the pure code
+
 Challenges:
 
 Getting tensorflow (which I was unfamiliar to work) was very tough, but eventually got it working.
