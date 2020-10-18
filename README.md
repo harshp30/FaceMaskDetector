@@ -4,8 +4,6 @@ May 2020
 
 Youtube Demonstration: https://youtu.be/B7D-o21zXec
 
-Price: $0
-
 This project uses tensorflow which I am quite new too. The premise of the project is to create a applicable project to modern day life. as everbody knows COVID-19 has changed everybodys day to day life and I wanted to create a 
 project surrounding that exact idea. On eof the vhanges to everyone's life is on some locations (such as my city) masks are mandatory in indoor locations. This includes Walmart, Superstore, and many other indoor places.
 One issue is that some people even with this strict rule in place do not want to or forget to wear a mask. One solution is using a project similiar to this and applyign it at the entry doorways at these stores. This would ensure every individual is 
